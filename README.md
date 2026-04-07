@@ -15,3 +15,8 @@ Predictive models
 Objective
 
 Apply data science to help organizations improve efficiency, increase profitability, and make better strategic decisions.
+
+Project 1 will focus on exploratory data analysis to identify patterns and business insights.
+
+Commit changes.
+
